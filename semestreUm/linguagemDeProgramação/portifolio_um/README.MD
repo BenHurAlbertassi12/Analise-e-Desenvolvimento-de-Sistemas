@@ -37,6 +37,3 @@ O código trata possíveis erros ao converter as entradas do usuário para núme
 Conclusão:
 ------------
 O código oferece uma maneira simples de calcular o IMC de um usuário com base em seu peso e altura, além de fornecer uma classificação em categorias de acordo com o resultado obtido. É importante ressaltar que o IMC é apenas um indicador, e outras informações e avaliações médicas podem ser necessárias para uma análise completa da saúde de uma pessoa.
-
-Fim do Relatório.
-=============================
