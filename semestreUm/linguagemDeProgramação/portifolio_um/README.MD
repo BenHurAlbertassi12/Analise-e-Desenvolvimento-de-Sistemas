@@ -1,4 +1,4 @@
-Relatório - Cálculo do IMC
+Cálculo do IMC
 =============================
 
 Introdução:
